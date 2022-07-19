@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/wamp64/www/example-app/routes/web.php</file>
+            <file>file:/D:/wamp64/www/example-app/bootstrap/app.php</file>
+            <file>file:/D:/wamp64/www/example-app/app/Providers/RouteServiceProvider.php</file>
+            <file>file:/D:/wamp64/www/example-app/app/Exceptions/Handler.php</file>
+            <file>file:/D:/wamp64/www/example-app/.env</file>
+            <file>file:/D:/wamp64/www/example-app/routes/console.php</file>
+            <file>file:/D:/wamp64/www/example-app/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/D:/wamp64/www/example-app/app/Http/Controllers/Controller.php</file>
+            <file>file:/D:/wamp64/www/example-app/routes/channels.php</file>
+            <file>file:/D:/wamp64/www/example-app/config/app.php</file>
+            <file>file:/D:/wamp64/www/example-app/app/Http/Kernel.php</file>
+            <file>file:/D:/wamp64/www/example-app/routes/api.php</file>
+            <file>file:/D:/wamp64/www/example-app/public/index.php</file>
+            <file>file:/D:/wamp64/www/example-app/database/factories/UserFactory.php</file>
+            <file>file:/D:/wamp64/www/example-app/app/Console/Kernel.php</file>
+        </group>
+    </open-files>
+</project-private>
